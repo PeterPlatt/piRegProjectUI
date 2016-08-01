@@ -1,5 +1,5 @@
 # Basic Pi Registration
-This project is meant to facilitate a Raspberry pi workshop. It's a single purpose project. The basic premise of this project is to demonstrate using a Raspberry Pi as a NodeJS server.
+This project is meant to facilitate a Raspberry Pi workshop. It's a single purpose project. The basic premise of this project is to demonstrate using a Raspberry Pi as a NodeJS server.
 
 The workshop will cover the following
 * Troubleshooting the Raspberry pi 3 nodejs install.
