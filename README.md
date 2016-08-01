@@ -13,8 +13,8 @@ The workshop will cover the following
 * Raspberry Pi with the Rasbian OS installed : [https://www.raspberrypi.org/downloads/noobs/](https://www.raspberrypi.org/downloads/noobs/)
 * Raspberry Pi running in headless mode 
 
-##Instructions to run on the Raspberry pi 3
-1. First Install nodejs on the reasberry pi. The instructions to do this are below
+##Instructions to run on the Raspberry Pi 3
+1. First Install nodejs on the Raspberry Pi. The instructions to do this are below.
 1. Create a directory and clone this project 
   * git clone https://github.com/PeterPlatt/piRegProjectUI.git
 1. Go to the directory and use nodeJS to run the server
@@ -22,7 +22,7 @@ The workshop will cover the following
   * node app.js
 1. Using a computer that is on the same network do the following
   * Open up a browser and go to this url replacing the hostname with your Raspberry pi hostname or ip address and 3000 port http://{piHostName}:3000 ex : http://pi:3000
-  * Should display a basic form webpage with Pi Registration  in the title 
+  * This should display a basic form webpage with Pi Registration in the title 
 1. Type in a message and press submit
   * Resulting page will display a UUID and a link to an AWS hosted nodeJS server that when clicked will display a JSON with that UUID and Message
 
