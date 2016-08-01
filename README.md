@@ -1,8 +1,8 @@
-# Basic Pi registration
+# Basic Pi Registration
 This project is meant to facilitate a Raspberry pi workshop. It's a single purpose project. The basic premise of this project is to demonstrate using a Raspberry Pi as a NodeJS server.
 
 The workshop will cover the following
-* troubleshooting the Raspberry pi 3 nodejs install.
+* Troubleshooting the Raspberry pi 3 nodejs install.
 * Cloning of the web server code from github
 * Running the web server
 * Registering the Raspberry Pi with an external service 
@@ -35,5 +35,3 @@ The workshop will cover the following
 1. Verify NodeJs code
   * node -v
   * Ex : v5.11.1
-
-
