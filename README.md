@@ -13,7 +13,7 @@ The workshop will cover the following
 * Raberry pi with the Rasbian OS installed : [https://www.raspberrypi.org/downloads/noobs/](https://www.raspberrypi.org/downloads/noobs/)
 * Raberry pi running in headless mode 
 
-Instructions to run on the Rasberry pi 3
+##Instructions to run on the Rasberry pi 3
 1. First Install nodejs on the reasberry pi. The instructions to do this are below
 1. Create a directory and clone this project 
   * git clone https://github.com/PeterPlatt/piRegProjectUI.git
