@@ -17,7 +17,7 @@ The workshop will cover the following
 1. First Install nodejs on the Raspberry Pi. The instructions to do this are below.
 1. Create a directory and clone this project 
   * git clone https://github.com/PeterPlatt/piRegProjectUI.git
-1. Go to the directory and use nodeJS to run the server
+1. Go to the directory likely piRegProjectUI and use nodeJS to run the server
   * npm install
   * node app.js
 1. Using a computer that is on the same network do the following
